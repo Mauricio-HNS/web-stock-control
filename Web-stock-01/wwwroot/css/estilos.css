@@ -1,0 +1,19 @@
+.tabela-categorias tr > th:last-child,
+.tabela-categorias tr > td:last-child
+{
+    width: 1%;
+    white-space: nowrap;
+    text-align: center;
+}
+
+.tabela-produtos tr > th:last-child,
+.tabela-produtos tr > td:last-child,
+.tabela-produtos tr > th:nth-child(3),
+.tabela-produtos tr > td:nth-child(3),
+.tabela-produtos tr > th:nth-child(4),
+.tabela-produtos tr > td:nth-child(4)
+{
+    width: 1%;
+    white-space: nowrap;
+    text-align: center;
+}
